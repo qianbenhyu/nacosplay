@@ -14,3 +14,4 @@ b. nacosplay.exe -u http://XXX
 ![image](https://github.com/qianbenhyu/nacosplay/assets/32768810/e4c208d6-bb77-464f-b388-29dcf1e551fa)
 
 注：每个命名空间默认获取不多于200条配置，实际项目中没遇到100条以上的。
+告知：作者不承担用户非授权或其他有害行为导致的网络安全责任，该工具仅供合法授权无害化测试!
